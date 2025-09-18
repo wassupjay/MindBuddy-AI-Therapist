@@ -36,8 +36,9 @@ A sophisticated AI therapy chatbot application that provides empathetic conversa
 - OpenAI API key
 - Pinecone API key
 
-### Backend Setup
 ## Open two terminals, one for frontend and one for backend.
+
+### Backend Setup
 1. **Navigate to backend folder**
    ```bash
    cd backend
