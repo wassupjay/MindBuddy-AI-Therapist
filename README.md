@@ -152,3 +152,5 @@ This project is licensed under the MIT License.
 - OpenAI for the GPT-4 API
 - Pinecone for vector database services
 - React and FastAPI communities
+
+_Made with ❤️ by Jay — “Automate everything, then automate the automation.”_
