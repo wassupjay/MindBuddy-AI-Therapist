@@ -153,4 +153,4 @@ This project is licensed under the MIT License.
 - Pinecone for vector database services
 - React and FastAPI communities
 
-_Made with ❤️ by Jay — “Automate everything, then automate the automation.”_
+_Made with ❤️ by Jay_
