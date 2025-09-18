@@ -1,0 +1,16 @@
+{
+  "short_name": "MindBuddy",
+  "name": "MindBuddy - AI Therapy Companion",
+  "icons": [
+    {
+      "src": "/public/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e3a8a",
+  "background_color": "#1e3a8a",
+  "description": "Your AI Therapy Companion for mental health support"
+}
