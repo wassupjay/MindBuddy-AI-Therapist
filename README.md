@@ -1,6 +1,7 @@
 # MindBuddy - AI Therapy Companion
 
 A sophisticated AI therapy chatbot application that provides empathetic conversational support with intelligent memory management.
+![Alt text](frontend/public/image.png)
 
 ## 🌟 Features
 
